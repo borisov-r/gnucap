@@ -1,0 +1,6 @@
+[package]
+name = "gnucap"
+version = "0.1.0"
+authors = ["Radoslav Borisov <radoslav.borisov@gmail.com>"]
+
+[dependencies]
